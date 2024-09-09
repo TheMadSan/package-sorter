@@ -24,3 +24,14 @@ print(sort(100, 100, 100, 10))  # Output: STANDARD
 print(sort(200, 100, 100, 10))  # Output: SPECIAL (bulky)
 print(sort(100, 100, 100, 25))  # Output: SPECIAL (heavy)
 print(sort(200, 200, 200, 25))  # Output: REJECTED (both bulky and heavy)
+
+# Running code
+## Clone this repository
+```bash
+git clone https://github.com/your-username/package-sorter.git
+cd package-sorter
+
+## Run the Python script
+```bash
+python sort_packages.py
+
